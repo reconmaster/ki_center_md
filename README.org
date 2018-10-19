@@ -1,0 +1,29 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: MD 気 research center
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, center, md
+Objective: 気 research center for MD
+* Introduction
+#+begin_quote
+The Art of Peace is medicine for a sick world. We want to cure the
+world of the sickness of violence, malcontent, and discord—this is the
+Way of Harmony. There is evil and disorder in the world because people
+have forgotten that all things emanate from one source. Return to that
+source and leave behind all self-centered thoughts, petty desires, and
+anger. Those who are possessed by nothing possess everything.
+#+end_quote
+[[https://en.wikipedia.org/wiki/Baltimore][Baltimore]] is a wonderful port city in [[https://en.wikipedia.org/wiki/Maryland][Maryland]]. A great many number of
+Aikidoka train in the DMV area, and a 気 research center would allow a
+facity for further studying the concept of the spiritual energy that
+flows throughout the Universe.
+
+Some resources local area can be found in the [[file:resources/README.org][resources]] page.

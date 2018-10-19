@@ -1,0 +1,22 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: resources
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, res, center, md
+Objective: [[https://en.wikipedia.org/wiki/Resource][resources]]
+* Introduction
+There are some excellent training facilities in 気 research in the DMV area.
+* Dojos
+** [[https://www.baltimoreaikido.com/][Baltimore Aikido]]
+An [[https://asu.org/][Aikido Schools of Ueshiba]]. Sometimes host visiting 先生 such as
+Mary Heiny 先生.
+** [[https://www.baltimoremartialarts.com/][Baltimore Martial Arts Academy]]
+Offers Aikido classes under the guidance of [[https://www.baltimoremartialarts.com/instructors/william-f-ball/][William Ball 先生]].
