@@ -12,7 +12,7 @@
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
 #+FILETAGS: 気, ki, center, md
 Objective: 気 research center for MD
-* Introduction
+
 #+begin_quote
 The Art of Peace is medicine for a sick world. We want to cure the
 world of the sickness of violence, malcontent, and discord—this is the
@@ -24,7 +24,7 @@ anger. Those who are possessed by nothing possess everything.
 * Introduction
 [[https://en.wikipedia.org/wiki/Baltimore][Baltimore]] is a wonderful port city in [[https://en.wikipedia.org/wiki/Maryland][Maryland]]. A great many number of
 Aikidoka train in the [[https://en.wikipedia.org/wiki/Washington_metropolitan_area][DMV]] area, and a [[https://en.wikipedia.org/wiki/Qi][気]] research center would allow a
-facity for further studying the concept of the spiritual energy that
+facility for further studying the concept of the spiritual energy that
 flows throughout the Universe.
 
 A large inspiration for this project comes from the [[https://budo.fandom.com/wiki/Kyoto_Budo_Center][Kyoto (京都) Budo
