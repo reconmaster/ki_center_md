@@ -33,7 +33,7 @@ would like to construct.
 :PROPERTIES:
 :ID:       b52e92c3-54a1-42e7-8cdb-b0b5422ca77e
 :END:
-- upper floor with ryoken style rooms
+- upper floor with [[https://en.wikipedia.org/wiki/Ryokan_(inn)][ryokan]] style rooms
 *** NEXT room
 - basic unit serves as the [[id:b52e92c3-54a1-42e7-8cdb-b0b5422ca77e][residence]] floor
 *** NEXT baths

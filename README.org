@@ -21,10 +21,15 @@ have forgotten that all things emanate from one source. Return to that
 source and leave behind all self-centered thoughts, petty desires, and
 anger. Those who are possessed by nothing possess everything.
 #+end_quote
+* Introduction
 [[https://en.wikipedia.org/wiki/Baltimore][Baltimore]] is a wonderful port city in [[https://en.wikipedia.org/wiki/Maryland][Maryland]]. A great many number of
-Aikidoka train in the DMV area, and a 気 research center would allow a
+Aikidoka train in the [[https://en.wikipedia.org/wiki/Washington_metropolitan_area][DMV]] area, and a [[https://en.wikipedia.org/wiki/Qi][気]] research center would allow a
 facity for further studying the concept of the spiritual energy that
 flows throughout the Universe.
+
+A large inspiration for this project comes from the [[https://budo.fandom.com/wiki/Kyoto_Budo_Center][Kyoto (京都) Budo
+Center]] where a dedicated a cener to the study of martial arts sits
+next to the [[https://en.wikipedia.org/wiki/Heian_Shrine][Heian-jingu Shrine (平安神宮)]].
 
 The facility is still in the design stage as mapped out in the
 [[file:docs/README.org][documentation]].
