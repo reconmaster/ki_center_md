@@ -13,7 +13,30 @@
 #+FILETAGS: 気, ki, doc, center, md
 Objective: [[https://en.wikipedia.org/wiki/Documentation][documentation]]
 * Introduction
-Documentation is critical to ensure our research methodology is
-completely transparent and understandable to those that consume it.
-Without a clear explanation of our procedures, the [[../results/README.org][results]] themselves
-are meaningless.
+This documentation describes the design principles behind the Aikido
+dojo we are looking to build.
+* TODO blueprints
+DEADLINE: <2022-06-30 Thu>
+** TODO variables
+*** NEXT [#A] property size
+We need to have the size to know how big the hall and residence floors
+can be
+** TODO schemtaic outline
+We need to provide an initial outline of the building design that we
+would like to construct.
+*** NEXT hall
+:PROPERTIES:
+:ID:       0cf7ac35-9bd4-400f-89d0-a6c8ae3854e8
+:END:
+- mat space will scale with size of building space
+*** NEXT residence
+:PROPERTIES:
+:ID:       b52e92c3-54a1-42e7-8cdb-b0b5422ca77e
+:END:
+- upper floor with ryoken style rooms
+*** NEXT room
+- basic unit serves as the [[id:b52e92c3-54a1-42e7-8cdb-b0b5422ca77e][residence]] floor
+*** NEXT baths
+- men an women facilities to adjoin the [[id:0cf7ac35-9bd4-400f-89d0-a6c8ae3854e8][hall]]
+*** NEXT IT room
+- need a room for center's IT infrastructure

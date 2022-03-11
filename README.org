@@ -26,4 +26,7 @@ Aikidoka train in the DMV area, and a 気 research center would allow a
 facity for further studying the concept of the spiritual energy that
 flows throughout the Universe.
 
+The facility is still in the design stage as mapped out in the
+[[file:docs/README.org][documentation]].
+
 Some resources local area can be found in the [[file:resources/README.org][resources]] page.
