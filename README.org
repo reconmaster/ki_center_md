@@ -6,6 +6,8 @@
 #+TITLE: MD 気 research center
 #+AUTHOR: Andrew M Davis, PhD
 #+EMAIL: @reconmaster:matrix.org
+#+AUTHOR: William F Ball 先生
+#+EMAIL: @aikiever:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -20,6 +22,8 @@ Way of Harmony. There is evil and disorder in the world because people
 have forgotten that all things emanate from one source. Return to that
 source and leave behind all self-centered thoughts, petty desires, and
 anger. Those who are possessed by nothing possess everything.
+
+お先生
 #+end_quote
 * Introduction
 [[https://en.wikipedia.org/wiki/Baltimore][Baltimore]] is a wonderful port city in [[https://en.wikipedia.org/wiki/Maryland][Maryland]]. A great many number of

@@ -6,6 +6,8 @@
 #+TITLE: documentation
 #+AUTHOR: Andrew M Davis, PhD
 #+EMAIL: @reconmaster:matrix.org
+#+AUTHOR: William F Ball 先生
+#+EMAIL: @aikiever:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
@@ -15,28 +17,45 @@ Objective: [[https://en.wikipedia.org/wiki/Documentation][documentation]]
 * Introduction
 This documentation describes the design principles behind the Aikido
 dojo we are looking to build.
-* TODO blueprints
+* TODO [#A] blueprints
 DEADLINE: <2022-06-30 Thu>
 ** TODO variables
-*** NEXT [#A] property size
+*** DONE [#A] property size
+    CLOSED: [2022-04-29 Fri 21:33]
 We need to have the size to know how big the hall and residence floors
 can be
-** TODO schemtaic outline
+- 5 acres
+- Need to save some space for auxillary gardens
+*** NEXT city codes
+*** NEXT soil depth
+- thicknesss of soil and how deep foundation will be (possible marsh)
+*** NEXT building height restrictions
+** TODO [#B] schematic outline
 We need to provide an initial outline of the building design that we
 would like to construct.
-*** NEXT hall
+*** NEXT [#A] hall
 :PROPERTIES:
 :ID:       0cf7ac35-9bd4-400f-89d0-a6c8ae3854e8
 :END:
 - mat space will scale with size of building space
-*** NEXT residence
+- of a subdimension of 5-acres choose a reasonable footprint and
+  estimate a layout
+*** TODO [#B] residence
 :PROPERTIES:
 :ID:       b52e92c3-54a1-42e7-8cdb-b0b5422ca77e
 :END:
 - upper floor with [[https://en.wikipedia.org/wiki/Ryokan_(inn)][ryokan]] style rooms
-*** NEXT room
-- basic unit serves as the [[id:b52e92c3-54a1-42e7-8cdb-b0b5422ca77e][residence]] floor
-*** NEXT baths
+- possibly 4 rooms divisions seperated by sliding doors to open to
+  larger teaching if necessary
+**** NEXT [#B] room
+ - basic unit serves as the [[id:b52e92c3-54a1-42e7-8cdb-b0b5422ca77e][residence]] floor
+*** NEXT [#B] baths
 - men an women facilities to adjoin the [[id:0cf7ac35-9bd4-400f-89d0-a6c8ae3854e8][hall]]
-*** NEXT IT room
+- does building codes allow for seperate bathroom facilities
+*** NEXT [#B] IT room
 - need a room for center's IT infrastructure
+* TODO [#A] partners
+We look forward to working with our fellow human beings in developing
+the way of spiritual and physical harmony. If you are interested in
+supporting our Peace research endeavors, pleace feel free to reach out
+to the authors.
